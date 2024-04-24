@@ -44,4 +44,6 @@ For responsive, thanks to TailwindCSS for its mobile-first design, when i slicin
 
 This page only to view list of data submitted successfully from forms using tables without using external components. 
 
+## Hosting
 
+Unfortunately, i can't find free hosting for node js framework (Vite + React and Express JS).

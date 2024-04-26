@@ -153,6 +153,7 @@ const App = () => {
                     value: /^[0-9]+$/,
                     message: "Invalid phone number"
                   },
+                  minLength:8
                 },
                 type: 'text',
                 error: errors.phone

@@ -47,3 +47,5 @@ This page only to view list of data submitted successfully from forms using tabl
 ## Hosting
 
 Unfortunately, i can't find free hosting for node js framework (Vite + React and Express JS).
+
+I have tried hosting vite + React in [infinityfree](https://www.infinityfree.com/), but since free tier does not support node js, i've tried using static build and still not working.
